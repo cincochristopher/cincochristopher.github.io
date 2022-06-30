@@ -414,3 +414,9 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+.popup-galleryzz > div:nth-child(1) {
+  margin-left: 70px;
+}
+.popup-galleryzz > div {
+  margin: 0px 20px;
+}
